@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sofe">Scores  Of  Final  Exam</string>
+    <string name="sub">SUBMIT</string>
+    <string name="b">BACK</string>
+    <string name="r">Results</string>
+</resources>
